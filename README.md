@@ -6,6 +6,7 @@ A program for automatically downloading images and videos submitted by a Reddit 
 * **Python 3** - For installation see [here](https://www.python.org/downloads/).
 * **pip** for Python 3 - For installation see [here](https://packaging.python.org/guides/installing-using-linux-tools/#installing-pip-setuptools-wheel-with-linux-package-managers) and [here](https://pip.pypa.io/en/stable/installing/).
 * **PRAW** - Install by running `pip3 install praw`.
+* **urllib3** - Install by running `pip3 install urllib3`.
 
 ### Obtaining Reddit API access credentials:
 1. Create a [Reddit](https://www.reddit.com/) account, and while logged in, navigate to preferences > apps.
