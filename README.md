@@ -26,5 +26,5 @@ A program for automatically downloading images and videos submitted by a Reddit 
 4. Enter the values needed in *praw.ini*.
 5. Run `python3 check_n_download.py` again.
 
-### Additional notes-
+### Additional notes:
 1. Files downloaded using this program may, or may not be copyrighted, use with caution.
