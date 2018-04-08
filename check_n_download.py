@@ -8,7 +8,7 @@ import urllib.request
 
 def create_config():
     config = configparser.ConfigParser()
-    if os.path.isfile("{}\praw.ini".format(str(os.getcwd()))) is False:
+    if os.path.isfile("{}/praw.ini".format(str(os.getcwd()))) is False:
         print("\033[91m" + "praw.ini not found. Creating..." + "\033[0m")
         file = open("praw.ini", "w+")
         config["Authentication"] = {"username": "Your reddit username",
