@@ -27,4 +27,5 @@ A program for automatically downloading images and videos submitted by a Reddit 
 5. Run `python3 check_n_download.py` again.
 
 ### Additional notes:
-1. Files downloaded using this program may, or may not be copyrighted, use with caution.
+1. Due to Reddit API restrictions, accounts with more than 1000 submissions won't work. 
+2. Files downloaded using this program may, or may not be copyrighted, use with caution.
