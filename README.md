@@ -22,7 +22,7 @@ A program for automatically downloading images and videos submitted by a Reddit 
 1. Clone this repository and navigate to its directory.
 2. Install necessary packages.
 2. Run `python3 check_n_download.py` to start the program.
-3. A file named *praw.ini* will be created in the programs current directory.
+3. A file named *praw.ini* will be created in the current directory of the program.
 4. Enter the values needed in *praw.ini*.
 5. Run `python3 check_n_download.py` again.
 
